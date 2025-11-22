@@ -2,6 +2,8 @@
 
 **Last Updated: November 22, 2025**
 
+> **Note**: This is a sample template. Replace all placeholder information (email addresses, company names, phone numbers, addresses) with your actual details before using this policy.
+
 ## Introduction
 
 This Privacy Policy describes how we collect, use, and handle your personal information when you use our services. We are committed to protecting your privacy and ensuring transparency in our data practices.
